@@ -7,7 +7,7 @@
     +  a. let obj1 = { name: "Person 1", age:5};
         b. let obj2 = { age:5, name: "Person 1"};
 
-  +  `*Source file is in Folder:* **JSON_Compare**`
+  +  `   *Source file is in Folder:* **JSON_Compare**   `
 
 + *Use the rest countries API URL -> https://restcountries.com/v3.1/all and display all the country flags in the console.*
   
